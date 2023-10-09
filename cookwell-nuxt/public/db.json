@@ -1,0 +1,164 @@
+{
+    "foods": [
+      {
+        "id": 1,
+        "name": "Spaghetti Carbonara",
+        "ingredients": ["eggs", "pancetta", "pecorino cheese", "black pepper", "spaghetti"],
+        "instructions": "Mix eggs, pancetta, pecorino cheese, and black pepper. Toss with cooked spaghetti.",
+        "image": "/images/spaghetti_carbonara.jpg",
+        "author": "Antony"
+      },
+      {
+        "id": 2,
+        "name": "Margherita Pizza",
+        "ingredients": ["dough", "tomato sauce", "mozzarella cheese", "fresh basil leaves"],
+        "instructions": "Spread tomato sauce on dough, add mozzarella cheese and basil leaves. Bake until crust is golden brown.",
+        "image": "/images/margherita_pizza.jpg",
+        "author": "Pizza Chef Luigi"
+      },
+      {
+        "id": 3,
+        "name": "Caesar Salad",
+        "ingredients": ["romaine lettuce", "croutons", "parmesan cheese", "Caesar dressing"],
+        "instructions": "Toss lettuce, croutons, and parmesan cheese with Caesar dressing. Serve chilled.",
+        "image": "/images/caesar_salad.jpg",
+        "author": "Lisa"
+      },
+      {
+        "id": 4,
+        "name": "Chicken Alfredo",
+        "ingredients": ["chicken breasts", "fettuccine pasta", "heavy cream", "butter", "parmesan cheese"],
+        "instructions": "Cook chicken and pasta separately. In a saucepan, melt butter, add cream and cheese, then combine with pasta and chicken.",
+        "image": "/images/chicken_alfredo.jpg",
+        "author": "Maria"
+      },
+      {
+        "id": 5,
+        "name": "Chocolate Cake",
+        "ingredients": ["flour", "sugar", "cocoa powder", "eggs", "butter", "milk"],
+        "instructions": "Mix dry ingredients, add eggs, butter, and milk. Bake until a toothpick comes out clean.",
+        "image": "/images/chocolate_cake.jpg",
+        "author": "Antony"
+      },
+      {
+        "id": 6,
+        "name": "Chicken Stir-Fry",
+        "ingredients": ["chicken breast", "bell peppers", "broccoli", "soy sauce", "garlic", "ginger"],
+        "instructions": "Stir-fry chicken and vegetables with garlic and ginger. Add soy sauce for flavor.",
+        "image": "/images/chicken_stir_fry.jpg",
+        "author": "Emily"
+      },
+      {
+        "id": 7,
+        "name": "Tomato Basil Soup",
+        "ingredients": ["tomatoes", "onion", "garlic", "basil leaves", "vegetable broth", "heavy cream"],
+        "instructions": "Cook tomatoes, onion, garlic, and basil in vegetable broth. Blend and add heavy cream.",
+        "image": "/images/tomato_basil_soup.jpg",
+        "author": "Sarah"
+      },
+      {
+        "id": 8,
+        "name": "Guacamole",
+        "ingredients": ["avocado", "lime juice", "tomato", "onion", "cilantro", "garlic"],
+        "instructions": "Mash avocado and mix with lime juice, tomato, onion, cilantro, and garlic. Serve with tortilla chips.",
+        "image": "/images/guacamole.jpg",
+        "author": "Carlos"
+      },
+      {
+        "id": 9,
+        "name": "Greek Salad",
+        "ingredients": ["cucumber", "tomato", "red onion", "feta cheese", "olives", "oregano"],
+        "instructions": "Combine cucumber, tomato, red onion, feta cheese, olives, and oregano. Drizzle with olive oil.",
+        "image": "/images/greek_salad.jpg",
+        "author": "Maria"
+      },
+      {
+        "id": 10,
+        "name": "Sushi Rolls",
+        "ingredients": ["sushi rice", "nori seaweed", "avocado", "cucumber", "fish", "soy sauce", "wasabi"],
+        "instructions": "Prepare sushi rice, lay out nori seaweed, add avocado, cucumber, and fish. Roll and serve with soy sauce and wasabi.",
+        "image": "/images/sushi_rolls.jpg",
+        "author": "Sushi Chef Hiroshi"
+      },
+      {
+        "id": 11,
+        "name": "Baked Salmon",
+        "ingredients": ["salmon fillet", "lemon", "dill", "garlic", "olive oil"],
+        "instructions": "Season salmon with lemon, dill, garlic, and olive oil. Bake until fish flakes easily.",
+        "image": "/images/baked_salmon.jpg",
+        "author": "Michael"
+      },
+      {
+        "id": 12,
+        "name": "Vegetable Curry",
+        "ingredients": ["vegetables", "coconut milk", "curry paste", "rice"],
+        "instructions": "Simmer vegetables in coconut milk and curry paste. Serve with rice.",
+        "image": "/images/vegetable_curry.jpg",
+        "author": "Sofia"
+      },
+      {
+        "id": 13,
+        "name": "Pancakes",
+        "ingredients": ["flour", "milk", "eggs", "sugar", "baking powder"],
+        "instructions": "Mix flour, milk, eggs, sugar, and baking powder. Cook on a griddle until golden brown.",
+        "image": "/images/pancakes.jpg",
+        "author": "Antony"
+      },
+      {
+        "id": 14,
+        "name": "Caprese Salad",
+        "ingredients": ["tomatoes", "mozzarella cheese", "fresh basil leaves", "balsamic vinegar", "olive oil"],
+        "instructions": "Layer tomatoes, mozzarella, and basil leaves. Drizzle with balsamic vinegar and olive oil.",
+        "image": "/images/caprese_salad.jpg",
+        "author": "Luca"
+      },
+      {
+        "id": 15,
+        "name": "Chicken Tacos",
+        "ingredients": ["chicken thighs", "tortillas", "salsa", "lettuce", "cheese", "sour cream"],
+        "instructions": "Cook chicken, fill tortillas with chicken, salsa, lettuce, cheese, and sour cream.",
+        "image": "/images/chicken_tacos.jpg",
+        "author": "Javier"
+      },
+      {
+        "id": 16,
+        "name": "Mango Smoothie",
+        "ingredients": ["mango", "yogurt", "honey", "milk"],
+        "instructions": "Blend mango, yogurt, honey, and milk until smooth. Enjoy as a refreshing smoothie.",
+        "image": "/images/mango_smoothie.jpg",
+        "author": "Linda"
+      },
+      {
+        "id": 17,
+        "name": "Eggplant Parmesan",
+        "ingredients": ["eggplant", "tomato sauce", "mozzarella cheese", "parmesan cheese", "bread crumbs"],
+        "instructions": "Layer eggplant with tomato sauce, mozzarella cheese, and parmesan cheese. Bake until bubbly and golden.",
+        "image": "/images/eggplant_parmesan.jpg",
+        "author": "Marco"
+      },
+      {
+        "id": 18,
+        "name": "Tiramisu",
+        "ingredients": ["ladyfingers", "mascarpone cheese", "coffee", "cocoa powder", "eggs"],
+        "instructions": "Dip ladyfingers in coffee, layer with mascarpone cheese mixture, and dust with cocoa powder. Chill before serving.",
+        "image": "/images/tiramisu.jpg",
+        "author": "Sofia"
+      },
+      {
+        "id": 19,
+        "name": "Chili Con Carne",
+        "ingredients": ["ground beef", "beans", "tomato sauce", "chili powder", "onion", "bell peppers"],
+        "instructions": "Brown beef, add beans, tomato sauce, chili powder, onion, and bell peppers. Simmer until flavors meld.",
+        "image": "/images/chili_con_carne.jpg",
+        "author": "Carlos"
+      },
+      {
+        "id": 20,
+        "name": "Chicken Curry",
+        "ingredients": ["chicken", "coconut milk", "curry powder", "onion", "garlic", "ginger"],
+        "instructions": "Cook chicken with coconut milk, curry powder, onion, garlic, and ginger. Serve with rice.",
+        "image": "/images/chicken_curry.jpg",
+        "author": "Priya"
+      }
+    ]
+  }
